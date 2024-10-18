@@ -1,0 +1,26 @@
+Strategic Leadership & Ownership:
+
+Led Product Innovations: Spearheaded critical product enhancements, including automating live URL deployments, creating pre-built development and production environments, and optimizing AWS backend functions. My efforts eliminated downtime during S3 migration, ensuring seamless operations and boosting overall system reliability.
+Overhauled the User Interface: Single-handedly redesigned the entire UI for handling large file uploads, integrating S3 and AWS services, which significantly improved user experience and performance.
+
+Innovation in Data Management & Synthesis:
+
+Mastered the PI Use Case: Assumed ownership of the PI use case, digging deep into the file structure and developing a custom data synthesis strategy. I am grateful for the enriching learning experience, supporting ongoing business needs.
+Optimized Fidelity-Centric Data Models: I proactively researched and optimized SDV model parameters, improving synthetic data generation for critical use cases, mitigating risks, and enhancing data fidelity—delivering better results than standard approaches. Ongoing- concrete improvements obtained already, more than SDV's TVAE.
+
+Process Efficiency & System Optimization:
+
+End-to-End System Rebuilds: Took charge of the transition to S3, including re-engineering the data procurement pipelines and creating an automated URL deployment system. My work led to zero downtime and significantly improved system scalability.
+Increased Team Productivity Amid Downsizing: Despite the team shrinking by 33%, I successfully absorbed more work, maintained team productivity, and ensured smooth operations through knowledge sharing and proactive leadership. Delivered outputs during critical urgent timelines.
+
+Advanced Research & Innovation:
+
+Developed Breakthrough Constraint Detection Tool: Leveraged advanced data structure and combinatorial math expertise to design and implement a highly accurate, optimized constraint detection tool. This system processes even the largest datasets with exceptional speed and precision, now a flagship feature of the product.
+LLM Benchmarking and Pipeline Creation: Designed and implemented novel prompt engineering pipelines for LLM benchmarking, which significantly outperformed previous iterations. This innovation reduced time-to-completion and elevated team performance.
+
+Published Research & Thought Leadership: Authored a research paper on prompt optimization and have actively contributed to the development of intellectual capital in the team. My work has directly influenced team strategies and product features, driving innovation forward.
+
+Achievements & Recognition:
+
+Global Recognition: Led the team to the global finals in Witathon 23 and won EBL 4.0 by delivering a groundbreaking LLM-based feedback mechanism. Presented solutions directly to leadership, earning high praise and recognition for innovation and impact.
+Proactive Contribution to Business-Critical Projects: Proactively used data from the ESG project, applying rigorous statistical analysis to validate hypotheses on ESG ratings and returns. This initiative demonstrated my ability to integrate advanced analytical techniques into business-critical decision-making.
